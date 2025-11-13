@@ -1,51 +1,62 @@
 # Resources for Data Science
 
-# General Resources
+## General Resources
 
-# Mathematics
 
-# Programming
-## Python
-* Pandas
-  * [DataQuest - Pandas Cheat Sheet](https://www.dataquest.io/cheat-sheet/pandas-cheat-sheet/)
-* NumPy
-* Matplotlib
-  * [Datacamp - Introduction to Plotting with Matplotlib in Python](https://www.datacamp.com/tutorial/matplotlib-tutorial-python)
 
-## SQL
-* [DataQuest - SQL Cheat Sheet](https://www.dataquest.io/cheat-sheet/sql-cheat-sheet/)
+## Mathematics
+
+
+
+## Programming
+
+### Python
+
+* #### **Python**
   
-## R
+  * [PDF](dataquest_python-cheatsheet.pdf) | [Website](https://www.dataquest.io/cheat-sheet/python-cheat-sheet/Much) | DataQuest - Python Cheat Sheet
+  
+* #### **Pandas**
+  
+  * [PDF](cheatsheets/dataquest_pandas-cheat-sheet.pdf) | [Website](https://www.dataquest.io/cheat-sheet/pandas-cheat-sheet/) | DataQuest - Pandas Cheat Sheet
+* #### **NumPy**
+* #### **Matplotlib**
+  
+  * [Website](https://www.datacamp.com/tutorial/matplotlib-tutorial-python) | Datacamp - Introduction to Plotting with Matplotlib in Python
 
-## Julia
+### SQL
+* [PDF](cheatsheets/dataquest_sql-cheat-sheet.pdf)  | [Website](https://www.dataquest.io/cheat-sheet/sql-cheat-sheet/) | DataQuest - SQL Cheat Sheet
+### R
 
-## C++
+### Julia
+
+### C++
 
 
 
-# Data Analysis
+## Data Analysis
 
 
 
-# Data Visualization
+## Data Visualization
 
-## Power BI
-* **[DataQuest - Power BI Cheat Sheet](https://www.dataquest.io/cheat-sheet/power-bi-cheat-sheet/)**
+### Power BI
+* [PDF](cheatsheets/dataquest_power-bi_cheat-sheet.pdf) |[Website](https://www.dataquest.io/cheat-sheet/power-bi-cheat-sheet/) | DataQuest - Power BI Cheat Sheet
 * **DataCamp - Power BI Cheatsheets**
-  * Power BI [PDF](cheatsheets/datacamp_power-bi_cheat-sheet.pdf) | [Link](https://www.datacamp.com/cheat-sheet/power-bi-cheat-sheet)
-  * Working with Tables in Power Query M  [PDF](cheatsheets/datacamp_power-bi_tables-in-power-query-m.pdf) | [Link](https://www.datacamp.com/cheat-sheet/working-with-tables-in-power-query-m-in-power-bi)
-  * Data Transformation with Power Query M  [PDF](cheatsheets/datacamp_power-bi_data-transformation_power-query-m.pdf) | [Link](https://www.datacamp.com/cheat-sheet/data-transformation-with-power-query-m-in-power-bi)
-  * Power BI [PDF](cheatsheets/datacamp_power-bi-formulas-in-DAX_cheat-sheet.pdf) | [Link](https://www.datacamp.com/cheat-sheet/dax-cheat-sheet)
+  * [PDF](cheatsheets/datacamp_power-bi_cheat-sheet.pdf) | [Website](https://www.datacamp.com/cheat-sheet/power-bi-cheat-sheet) | Power BI 
+  * [PDF](cheatsheets/datacamp_power-bi_tables-in-power-query-m.pdf) | [Website](https://www.datacamp.com/cheat-sheet/working-with-tables-in-power-query-m-in-power-bi) | Working with Tables in Power Query M  
+  * [PDF](cheatsheets/datacamp_power-bi_data-transformation_power-query-m.pdf) | [Website](https://www.datacamp.com/cheat-sheet/data-transformation-with-power-query-m-in-power-bi) | Data Transformation with Power Query M  
+  * [PDF](cheatsheets/datacamp_power-bi-formulas-in-DAX_cheat-sheet.pdf) | [Website](https://www.datacamp.com/cheat-sheet/dax-cheat-sheet) | Formulas-in-DAX
 
 
 
 
-## Tableau
+### Tableau
 
 
 
 
-# Machine Learning
+## Machine Learning
 
 
-# Artific
+## 
