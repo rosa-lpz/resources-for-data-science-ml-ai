@@ -57,6 +57,12 @@
 
 
 ## Machine Learning
-
+* https://github.com/josephmisiti/awesome-machine-learning
 
 ## 
+
+
+# Open Source Projects
+* 20 Best Open Source Big Data Projects to Contribute on GitHub: https://www.projectpro.io/article/best-open-source-big-data-projects-github/516
+* Drive Data Open source projects: https://drivendata.co/open-source/
+
