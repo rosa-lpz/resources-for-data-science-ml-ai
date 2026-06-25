@@ -1,4 +1,4 @@
-# Resources for Data Science
+# Resources for Data Science, Machine Learning (ML) and Artificial Intelligence (AI)
 
 ## General Resources
 
@@ -59,8 +59,14 @@
 ## Machine Learning
 * https://github.com/josephmisiti/awesome-machine-learning
 
-## 
+## Artificial Intelligence
+## Courses
+|Course|
 
+## Books
+|Book | GitHub Repository|
+|---|---|
+|Build a Large Language Model|[LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)|
 
 # Open Source Projects
 * 20 Best Open Source Big Data Projects to Contribute on GitHub: https://www.projectpro.io/article/best-open-source-big-data-projects-github/516
